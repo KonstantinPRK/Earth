@@ -187,4 +187,8 @@ public class Data {
             }
     }
 
+    public enum Messages {
+
+    }
+
 }

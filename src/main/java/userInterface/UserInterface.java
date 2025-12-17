@@ -6,4 +6,8 @@ public class UserInterface {
         return null;
     }
 
+    public int... getParameters(){
+
+    }
+
 }
